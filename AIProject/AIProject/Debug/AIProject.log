@@ -1,0 +1,25 @@
+﻿  Cell.cpp
+  Grid.cpp
+c:\users\patrick\documents\_job\aiprojectrepo\aiproject\aiproject\grid.cpp(233): warning C4018: '<': signed/unsigned mismatch
+c:\users\patrick\documents\_job\aiprojectrepo\aiproject\aiproject\grid.cpp(304): warning C4018: '<': signed/unsigned mismatch
+c:\users\patrick\documents\_job\aiprojectrepo\aiproject\aiproject\grid.cpp(328): warning C4018: '<': signed/unsigned mismatch
+c:\users\patrick\documents\_job\aiprojectrepo\aiproject\aiproject\grid.cpp(375): warning C4018: '<': signed/unsigned mismatch
+c:\users\patrick\documents\_job\aiprojectrepo\aiproject\aiproject\grid.cpp(379): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\patrick\documents\_job\aiprojectrepo\aiproject\aiproject\grid.cpp(400): warning C4018: '<': signed/unsigned mismatch
+c:\users\patrick\documents\_job\aiprojectrepo\aiproject\aiproject\grid.cpp(447): warning C4018: '<': signed/unsigned mismatch
+c:\users\patrick\documents\_job\aiprojectrepo\aiproject\aiproject\grid.cpp(451): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Source.cpp
+c:\users\patrick\documents\_job\aiprojectrepo\aiproject\aiproject\source.cpp(5): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  UserInput.cpp
+c:\users\patrick\documents\_job\aiprojectrepo\aiproject\aiproject\userinput.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\patrick\documents\_job\aiprojectrepo\aiproject\aiproject\userinput.cpp(84): warning C4018: '>=': signed/unsigned mismatch
+c:\users\patrick\documents\_job\aiprojectrepo\aiproject\aiproject\userinput.cpp(383): warning C4018: '<': signed/unsigned mismatch
+c:\users\patrick\documents\_job\aiprojectrepo\aiproject\aiproject\userinput.cpp(391): warning C4018: '<': signed/unsigned mismatch
+c:\users\patrick\documents\_job\aiprojectrepo\aiproject\aiproject\userinput.cpp(420): warning C4018: '<': signed/unsigned mismatch
+c:\users\patrick\documents\_job\aiprojectrepo\aiproject\aiproject\userinput.cpp(428): warning C4018: '<': signed/unsigned mismatch
+c:\users\patrick\documents\_job\aiprojectrepo\aiproject\aiproject\userinput.cpp(456): warning C4018: '<': signed/unsigned mismatch
+c:\users\patrick\documents\_job\aiprojectrepo\aiproject\aiproject\userinput.cpp(464): warning C4018: '<': signed/unsigned mismatch
+c:\users\patrick\documents\_job\aiprojectrepo\aiproject\aiproject\userinput.cpp(492): warning C4018: '<': signed/unsigned mismatch
+c:\users\patrick\documents\_job\aiprojectrepo\aiproject\aiproject\userinput.cpp(500): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  AIProject.vcxproj -> C:\Users\Patrick\Documents\_JOB\AIProjectRepo\AIProject\Debug\AIProject.exe
